@@ -225,6 +225,7 @@ print(me.motto())
 |:---:|:------------|:--------|
 | 🔬 | **Conference Paper — ICECER 2025** | Co-authored paper on IoT-enabled CO₂ Carbon Capture Technologies |
 | 🏅 | **Embedded Systems & IoT with Lab** | GUVI · HCL · Google for Education Partner · ISO 9001-27001 Certified · Apr 2026 |
+| 🌐 | **NPTEL Elite — Computer Networks and Internet Protocol** | IIT Kharagpur · **63%** · Assignments: **25/25** · Proctored Exam: 38.27/75 · 12 Weeks · **4 Credits** · Jan–Apr 2026 |
 | 🥇 | **NPTEL Elite — Introduction to IoT** | IIT Kharagpur · **71%** · 12 Weeks · Jul–Oct 2025 |
 | 🥇 | **NPTEL Elite — UN Sustainable Development Goals** | IIT Hyderabad · **63%** · 12 Weeks · Jan–Apr 2025 |
 | 📱 | **Android App Development using Kotlin** | EduPyramids / SINE, IIT Bombay · **92.50%** · 2 Credits · Dec 2025 |
