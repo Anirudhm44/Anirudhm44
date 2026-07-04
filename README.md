@@ -9,7 +9,7 @@
 <!-- ─────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Anirudh+M!+%F0%9F%91%8B;Power+Platform+Developer+%E2%9A%A1;Fullstack+%26+Embedded+Systems+Engineer+%F0%9F%A4%96;B.E.+EEE+%40+Sri+Sairam+Engineering+College+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Anirudh+M!+%F0%9F%91%8B;Python+Developer+%E2%9A%A1;Fullstack+%26+Engineer+%F0%9F%A4%96;B.E.+EEE+%40+Sri+Sairam+Engineering+College+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
