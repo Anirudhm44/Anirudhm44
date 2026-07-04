@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anirudh+M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Power+Platform+Dev+%7C+IoT+Engineer+%7C+EEE+Student&descAlignY=62&descSize=16)](https://github.com/Anirudhm44)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anirudh+M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Power+Platform+Dev+%7C+Fullstack+Engineer+%7C+EEE+Student&descAlignY=62&descSize=16)](https://github.com/Anirudhm44)
 
 </div>
 
@@ -77,7 +77,6 @@ print(me.motto())
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
