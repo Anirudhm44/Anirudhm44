@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anirudh+M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Power+Platform+Dev+%7C+Fullstack+Engineer+%7C+EEE+Student&descAlignY=62&descSize=16)](https://github.com/Anirudhm44)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anirudh+M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software+Developer+%7C+Full+Stack+%26+Backend+%7C+EEE+Student&descAlignY=62&descSize=16)](https://github.com/Anirudhm44)
 
 </div>
 
@@ -9,15 +9,16 @@
 <!-- ─────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Anirudh+M!+%F0%9F%91%8B;Python+Developer+%E2%9A%A1;Fullstack+Engineer+%F0%9F%A4%96;B.E.+EEE+%40+Sri+Sairam+Engineering+College+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Anirudh+M!+%F0%9F%91%8B;Software+Developer+%28Fresher%29+%E2%9A%A1;Full+Stack+%26+Backend+%F0%9F%A4%96;B.E.+EEE+%40+Sri+Sairam+Engineering+College+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Anirudhm44&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Anirudhm44)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/Anirudhm44?style=flat-square&color=70a5fd&label=Followers&logo=github&logoColor=white)](https://github.com/Anirudhm44)&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-anirudhmadhavan13%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anirudhmadhavan13@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40anirudhm4-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhm4)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%40anirudhm4-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/anirudhm4)&nbsp;
-[![Chennai](https://img.shields.io/badge/📍_Chennai-Tamil+Nadu-38BDAE?style=flat-square)](https://github.com/Anirudhm44)
+[![Chennai](https://img.shields.io/badge/📍_Pammal,_Chennai-Tamil+Nadu-38BDAE?style=flat-square)](https://github.com/Anirudhm44)
 
 </div>
 
@@ -35,12 +36,13 @@
 class AnirudhM:
     def __init__(self):
         self.name               = "Anirudh M"
+        self.role                = "Software Developer (Fresher) — Full Stack & Backend"
         self.location           = "Pammal, Chennai, Tamil Nadu 🇮🇳"
         self.degree             = "B.E. Electrical & Electronics Engineering"
         self.college            = "Sri Sairam Engineering College, Chennai (2023–2027)"
         self.stack              = [
-            "Python",       "Power Apps",    "Power Automate",
-            "Power BI",     "SharePoint",    "Kotlin",
+            "Python",       "SQL",           "C",  "C++",
+            "Power Apps",   "Power Automate", "Power BI",   "SharePoint",
             "ESP32",        "Arduino",       "Firebase",
             "MySQL",        "HTML5",         "CSS3"
         ]
@@ -51,6 +53,7 @@ class AnirudhM:
         ]
         self.fun_fact           = "Built a solar tracker with ~48% more energy ☀️"
         self.spoken_languages   = {"English": "Professional", "French": "Beginner"}
+        self.open_to            = ["Software Developer", "Full Stack Developer", "Backend Developer"]
 
     def motto(self) -> str:
         return "From electrons to enterprise — engineering solutions end-to-end ⚡"
@@ -72,7 +75,7 @@ print(me.motto())
 
 ## 🛠️ Tech Stack
 
-**🔤 Languages**
+**🔤 Languages & Core CS**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -81,7 +84,7 @@ print(me.motto())
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**⚡ Microsoft Power Platform**
+**⚙️ Application & Workflow Development**
 
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=microsoftpowerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
@@ -90,17 +93,17 @@ print(me.motto())
 ![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
 ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)
 
-**🔌 IoT & Embedded**
+**🔌 Applied IoT & Embedded**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-**🗄️ Databases**
+**🗄️ Databases & Dashboards**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**🧰 Tools & DevOps**
+**🧰 Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -174,8 +177,8 @@ print(me.motto())
 
 ## 💼 Work Experience
 
-<details>
-<summary><b>🏢 Prodapt Solutions Pvt. Ltd.</b> &nbsp;·&nbsp; Delivery Intern &nbsp;·&nbsp; Jun 2025 – Jul 2025 &nbsp;·&nbsp; Chennai</summary>
+<details open>
+<summary><b>🏢 Prodapt Solutions Pvt. Ltd.</b> &nbsp;·&nbsp; Delivery Intern &nbsp;·&nbsp; Jun 10 – Jul 10, 2025 &nbsp;·&nbsp; Chennai, India (On-site)</summary>
 
 <br/>
 
@@ -186,10 +189,13 @@ print(me.motto())
 > ![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
 > ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)
 
-- 🚀 Designed and deployed an enterprise-grade **Gate Pass Management System** using **Power Apps**, eliminating a manual paper-based process and fully digitising IGP, RGP, and NRGP workflows organisation-wide.
-- 🗄️ Architected **SharePoint Online** lists as a structured backend capturing employee details, item descriptions, pass type, quantity, and multi-stage approval records with robust data-integrity controls.
-- ⚙️ Engineered **multi-stage Power Automate** workflows for automated request routing, approval/rejection notifications via Outlook & Teams, escalation logic, and overdue RGP reminders.
-- 📊 Built **Power BI dashboards** providing real-time visibility into gate-pass volumes, departmental trends, pending approvals, and overdue returns — enabling fully data-driven management decisions.
+Designed and built a production-grade **full-stack business application** — the Gate Pass Management System — replacing a fully manual, paper-based process with a unified digital system handling Inward (IGP), Returnable (RGP), and Non-Returnable (NRGP) requests organisation-wide.
+
+- 🚀 Built a responsive front-end app (PowerApps) for employees to submit requests and track real-time approval status — the client-facing layer of a CRUD-style workflow app.
+- 🗄️ Designed a relational data layer using **SharePoint Online** lists, modelling schemas for employee records, item metadata, pass types, and a full approval audit trail.
+- ⚙️ Engineered **multi-stage Power Automate** backend automation: request routing, conditional business logic, approval/rejection notifications, escalation rules, and scheduled reminders for overdue items — comparable to event-driven backend workflows.
+- 📊 Built a **Power BI** analytics dashboard exposing real-time metrics — request volumes, departmental trends, pending approvals, overdue returns.
+- ✅ Implemented dynamic conditional-rendering logic so only relevant fields appear per request type, improving data integrity — similar to frontend form validation.
 
 </details>
 
@@ -205,6 +211,7 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
+| 🗂️ **Gate Pass Management System** | Power Apps · Power Automate · Power BI · SharePoint Online | Full-stack, low-code enterprise app — front end, relational data layer, automated backend workflows, and analytics dashboard — **deployed organisation-wide**, replacing a fully manual process |
 | ☀️ **[Automatic Solar Tracker](https://github.com/Anirudhm44)** | Python · Arduino · Dual-LDR Sensors · Bidirectional Motor Control | Dual-LDR sensing circuit with automated gear-motor control; controlled comparative experiments (fixed vs. tracking panels) yielded a **~48% improvement** in captured energy output |
 | 🌿 **[IoT-Enabled CO₂ Carbon Capture System](https://github.com/Anirudhm44)** | ESP32 · Firebase · Python · NDIR Sensors · SBA-15 Filters | Real-time CO₂ monitoring dashboard with matplotlib animations; SBA-15 solid amine sorbent integration; aligned with **UN SDGs 9, 11 & 13**; co-authored paper accepted at **ICECER 2025** |
 
@@ -222,12 +229,12 @@ print(me.motto())
 
 |  | Achievement | Details |
 |:---:|:------------|:--------|
+| 🏭 | **Enterprise Software Delivery** | Independently designed and delivered the Gate Pass Management System at Prodapt Solutions, digitising an organisation-wide manual workflow |
 | 🔬 | **Conference Paper — ICECER 2025** | Co-authored paper on IoT-enabled CO₂ Carbon Capture Technologies |
 | 🏅 | **Embedded Systems & IoT with Lab** | GUVI · HCL · Google for Education Partner · ISO 9001-27001 Certified · Apr 2026 |
 | 🌐 | **NPTEL Elite — Computer Networks and Internet Protocol** | IIT Kharagpur · **63%** · Assignments: **25/25** · Proctored Exam: 38.27/75 · 12 Weeks · **4 Credits** · Jan–Apr 2026 |
 | 🥇 | **NPTEL Elite — Introduction to IoT** | IIT Kharagpur · **71%** · 12 Weeks · Jul–Oct 2025 |
 | 🥇 | **NPTEL Elite — UN Sustainable Development Goals** | IIT Hyderabad · **63%** · 12 Weeks · Jan–Apr 2025 |
-| 📱 | **Android App Development using Kotlin** | EduPyramids / SINE, IIT Bombay · **92.50%** · 2 Credits · Dec 2025 |
 | 🐍 | **Python 3.4.3 Training** | EduPyramids / SINE, IIT Bombay · **70%** · 4 Credits · Dec 2025 |
 | 🎨 | **Design Thinking: A Primer — NPTEL** | IIT Madras · 56% · 4 Weeks · Jul–Aug 2024 |
 | 💻 | **Honours Diploma in Computer Application (HDCA)** | CSC Computer Education Pvt. Ltd. · **Grade B – Very Good** · Sep 2022 – Sep 2023 |
@@ -259,7 +266,6 @@ print(me.motto())
 🔋 Advanced Power Platform    →  Custom Connectors · Model-driven Apps · Dataverse
 ☁️  Cloud IoT Architectures   →  AWS IoT Core · Azure IoT Hub · MQTT Protocol
 🤖 Machine Learning           →  scikit-learn · TensorFlow Lite (Edge AI)
-📱 Android Development        →  Kotlin · Jetpack Compose · Material You
 🐍 Python Advanced            →  REST APIs · Data Science · Automation Scripting
 ```
 
