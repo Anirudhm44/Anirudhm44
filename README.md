@@ -9,7 +9,7 @@
 <!-- ─────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Anirudh+M!+%F0%9F%91%8B;Software+Developer+%28Fresher%29+%E2%9A%A1;Full+Stack+%26+Backend+%F0%9F%A4%96;B.E.+EEE+%40+Sri+Sairam+Engineering+College+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Anirudh+M!+%F0%9F%91%8B;Software+Developer+%28Fresher%29+%E2%9A%A1;Full+Stack+%26+Backend+%F0%9F%A4%96;Docker+%C2%B7+AWS+%C2%B7+React+%C2%B7+Node.js+%E2%98%81%EF%B8%8F;B.E.+EEE+%40+Sri+Sairam+Engineering+College+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
@@ -36,15 +36,24 @@
 class AnirudhM:
     def __init__(self):
         self.name               = "Anirudh M"
-        self.role                = "Software Developer (Fresher) — Full Stack & Backend"
+        self.role               = "Software Developer (Fresher) — Full Stack & Backend"
         self.location           = "Pammal, Chennai, Tamil Nadu 🇮🇳"
         self.degree             = "B.E. Electrical & Electronics Engineering"
         self.college            = "Sri Sairam Engineering College, Chennai (2023–2027)"
         self.stack              = [
-            "Python",       "SQL",           "C",  "C++",
-            "Power Apps",   "Power Automate", "Power BI",   "SharePoint",
-            "ESP32",        "Arduino",       "Firebase",
-            "MySQL",        "HTML5",         "CSS3"
+            "Python",        "TypeScript",     "JavaScript",   "C / C++",   "SQL",
+            "React",         "Node.js",        "Express",      "TanStack Start",
+            "Docker",        "BullMQ",         "Redis",        "Traefik",
+            "AWS CDK",       "Step Functions", "CodeBuild",    "ECR",       "ECS/Fargate",
+            "PostgreSQL",    "MySQL",          "Amazon RDS",
+            "Power Apps",    "Power Automate", "Power BI",     "SharePoint",
+            "ESP32",         "Arduino"
+        ]
+        self.projects           = [
+            "BlackWater — cloud-agnostic Docker PaaS",
+            "Arcpilot   — AWS-native deployment platform",
+            "ESP32 CO₂ capture & monitoring system (ICECER 2025)",
+            "Gate Pass Management System (Prodapt Solutions)"
         ]
         self.currently_learning = [
             "Advanced Power Platform  → Custom Connectors, Dataverse",
@@ -78,11 +87,36 @@ print(me.motto())
 **🔤 Languages & Core CS**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**🌐 Web & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**☁️ Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E74C3C?style=flat-square&logo=bull&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-E7157B?style=flat-square&logo=amazonwebservices&logoColor=white)
+![CodeBuild](https://img.shields.io/badge/CodeBuild-3F8624?style=flat-square&logo=amazonwebservices&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![ECS Fargate](https://img.shields.io/badge/ECS%2FFargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
 
 **⚙️ Application & Workflow Development**
 
@@ -97,11 +131,15 @@ print(me.motto())
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **🗄️ Databases & Dashboards**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 **🧰 Tools**
 
@@ -191,10 +229,10 @@ print(me.motto())
 
 Designed and built a production-grade **full-stack business application** — the Gate Pass Management System — replacing a fully manual, paper-based process with a unified digital system handling Inward (IGP), Returnable (RGP), and Non-Returnable (NRGP) requests organisation-wide.
 
-- 🚀 Built a responsive front-end app (PowerApps) for employees to submit requests and track real-time approval status — the client-facing layer of a CRUD-style workflow app.
-- 🗄️ Designed a relational data layer using **SharePoint Online** lists, modelling schemas for employee records, item metadata, pass types, and a full approval audit trail.
-- ⚙️ Engineered **multi-stage Power Automate** backend automation: request routing, conditional business logic, approval/rejection notifications, escalation rules, and scheduled reminders for overdue items — comparable to event-driven backend workflows.
-- 📊 Built a **Power BI** analytics dashboard exposing real-time metrics — request volumes, departmental trends, pending approvals, overdue returns.
+- 🚀 Built a responsive front-end app (**Power Apps**) with conditional field logic, letting employees submit requests, track real-time approval status, and view their full request history — the client-facing layer of a CRUD-style workflow app.
+- 🗄️ Designed a relational data layer using **SharePoint Online** lists, modelling schemas for employee records, item metadata, pass types, and a full multi-stage approval audit trail.
+- ⚙️ Engineered **multi-stage Power Automate** backend automation: request routing, conditional business logic, Outlook/Teams approvals, escalation rules, and scheduled reminders for overdue items — comparable to event-driven backend workflows.
+- 📊 Built **Power BI** dashboards exposing real-time metrics — pass volumes, departmental trends, pending approvals, and overdue returns.
 - ✅ Implemented dynamic conditional-rendering logic so only relevant fields appear per request type, improving data integrity — similar to frontend form validation.
 
 </details>
@@ -211,9 +249,11 @@ Designed and built a production-grade **full-stack business application** — th
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
+| 🐳 **[BlackWater — Cloud-Agnostic Docker PaaS](https://github.com/Anirudhm44)** | React · TypeScript · Node.js · Express · Docker · BullMQ · Redis · PostgreSQL · Traefik | Docker-native platform where developers deploy apps through a React/Vite dashboard and Node.js/Express API. **Redis + BullMQ** queue jobs to a Docker build worker that builds images and runs containers; **Traefik** routes traffic to deployed apps, keeping it cloud-agnostic. Includes authentication, project management, deployment tracking and status/log views; content-first dark UI targeting **WCAG 2.2 AA** |
+| ☁️ **[Arcpilot — AWS-Native Deployment Platform](https://github.com/Anirudhm44)** | TypeScript · TanStack Start · AWS CDK · Step Functions · CodeBuild · ECR · ECS/Fargate · ALB · RDS | Designed an AWS-native PaaS from source ZIP to running service: **S3 → Step Functions → CodeBuild → ECR → ECS/Fargate → ALB**, with validation, Docker builds, immutable image tags and health checks. Infrastructure defined as **12 AWS CDK stacks** with separate IAM roles for the API, CodeBuild, Step Functions and EventBridge. Dashboard includes a deployment timeline, logs, and a clearly labelled development simulator of the state machine |
+| 🌿 **[ESP32-Based CO₂ Capture & Monitoring System](https://github.com/Anirudhm44)** | ESP32 · NDIR Sensors · OLED/LCD · Firebase · Python · Embedded C · SBA-15 Filters | Monitors an adsorbent-based CO₂ capture unit with controlled blower airflow; **dual NDIR sensors** at inlet and outlet let the ESP32 compute live reduction and capture efficiency, with calibration and data-acquisition routines to cut sensor noise. Real-time dashboard with matplotlib animations; aligned with **UN SDGs 9, 11 & 13**; co-authored paper submitted to **ICECER 2025** |
 | 🗂️ **Gate Pass Management System** | Power Apps · Power Automate · Power BI · SharePoint Online | Full-stack, low-code enterprise app — front end, relational data layer, automated backend workflows, and analytics dashboard — **deployed organisation-wide**, replacing a fully manual process |
-| ☀️ **[Automatic Solar Tracker](https://github.com/Anirudhm44)** | Python · Arduino · Dual-LDR Sensors · Bidirectional Motor Control | Dual-LDR sensing circuit with automated gear-motor control; controlled comparative experiments (fixed vs. tracking panels) yielded a **~48% improvement** in captured energy output |
-| 🌿 **[IoT-Enabled CO₂ Carbon Capture System](https://github.com/Anirudhm44)** | ESP32 · Firebase · Python · NDIR Sensors · SBA-15 Filters | Real-time CO₂ monitoring dashboard with matplotlib animations; SBA-15 solid amine sorbent integration; aligned with **UN SDGs 9, 11 & 13**; co-authored paper accepted at **ICECER 2025** |
+| ☀️ **[Automatic Solar Tracker](https://github.com/Anirudhm44)** | Python · Arduino · Dual-LDR Sensors · Bidirectional Motor Control | Python control software over a serial interface to an Arduino, driving real-time actuation from a dual-LDR sensing circuit; controlled comparative experiments (fixed vs. tracking panels) yielded a **~48% improvement** in captured energy output |
 
 </div>
 
@@ -229,10 +269,14 @@ Designed and built a production-grade **full-stack business application** — th
 
 |  | Achievement | Details |
 |:---:|:------------|:--------|
-| 🏭 | **Enterprise Software Delivery** | Independently designed and delivered the Gate Pass Management System at Prodapt Solutions, digitising an organisation-wide manual workflow |
-| 🔬 | **Conference Paper — ICECER 2025** | Co-authored paper on IoT-enabled CO₂ Carbon Capture Technologies |
+| 🏭 | **Enterprise Software Delivery** | Designed and delivered the Gate Pass Management System at Prodapt Solutions, digitising an organisation-wide manual workflow with multi-stage approvals, automated notifications, and operational analytics |
+| 🐳 | **BlackWater — Cloud-Agnostic Docker PaaS** | Designed a Docker-native deployment platform (React, Node.js, Express, BullMQ, Redis, PostgreSQL, Traefik) with a cloud-agnostic workflow and container/deployment-status management |
+| ☁️ | **Arcpilot — AWS-Native Deployment Platform** | Designed an AWS-native architecture connecting S3, Step Functions, CodeBuild, ECR, ECS/Fargate and ALB; infrastructure defined across 12 AWS CDK stacks |
+| ⚡ | **Solar Tracking Performance Improvement** | Python control logic for a dual-sensor solar tracker; ~48% greater captured energy vs. a fixed-panel baseline under tested conditions |
+| 🔬 | **Conference Paper — ICECER 2025** | Co-authored paper on IoT-enabled CO₂ Carbon Capture Technologies, aligned with UN SDGs 9, 11 & 13 |
+| 🌐 | **Web Designing Training** | Besant Technologies · Completed · Aug 2026 |
 | 🏅 | **Embedded Systems & IoT with Lab** | GUVI · HCL · Google for Education Partner · ISO 9001-27001 Certified · Apr 2026 |
-| 🌐 | **NPTEL Elite — Computer Networks and Internet Protocol** | IIT Kharagpur · **63%** · Assignments: **25/25** · Proctored Exam: 38.27/75 · 12 Weeks · **4 Credits** · Jan–Apr 2026 |
+| 🥇 | **NPTEL Elite — Computer Networks and Internet Protocol** | IIT Kharagpur · **63%** · Assignments: **25/25** · Proctored Exam: 38.27/75 · 12 Weeks · **4 Credits** · Jan–Apr 2026 |
 | 🥇 | **NPTEL Elite — Introduction to IoT** | IIT Kharagpur · **71%** · 12 Weeks · Jul–Oct 2025 |
 | 🥇 | **NPTEL Elite — UN Sustainable Development Goals** | IIT Hyderabad · **63%** · 12 Weeks · Jan–Apr 2025 |
 | 🐍 | **Python 3.4.3 Training** | EduPyramids / SINE, IIT Bombay · **70%** · 4 Credits · Dec 2025 |
@@ -253,7 +297,7 @@ Designed and built a production-grade **full-stack business application** — th
 
 | Degree | Institution | Period | Score |
 |:-------|:------------|:------:|:-----:|
-| 🎓 B.E. Electrical & Electronics Engineering | Sri Sairam Engineering College, Chennai *(Affiliated to Anna University)* | 2023 – 2027 | Ongoing |
+| 🎓 B.E. Electrical & Electronics Engineering | Sri Sairam Engineering College, Chennai *(Autonomous · Affiliated to Anna University)* | 2023 – 2027 | Ongoing |
 | 💻 Honours Diploma in Computer Application (HDCA) | CSC Computer Education Pvt. Ltd. | Sep 2022 – Sep 2023 | Grade B (Very Good) |
 
 </div>
